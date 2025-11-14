@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+/* optional tweaks you can keep */
+:root { color-scheme: dark; }
+html, body { background: #000; }
